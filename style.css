@@ -1,0 +1,48 @@
+.espacios {
+    margin-top: 50px;
+}/*font-family: 'Josefin Sans', sans-serif;*/
+body{
+    background: #203239;
+}header{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    background: #EEEDDE;
+
+}header a img{
+    width: 50px;
+}
+section p {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+section div img{
+    width: 95px;
+    text-align: center;
+}
+section div button{
+    margin: 6px;
+    border-radius: 17px;
+    background: #EEEDDE;
+    border: none;
+}
+section div button:hover{
+    margin: 6px;
+    border: 0px;
+    background: #E0DDAA;
+}
+#section2{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+#otraVez{
+    background: #203239;
+    border: #203239;
+}
+#otraVez:hover{
+    background: #141E27;
+}
+.opciones{
+    text-align: center;
+}
